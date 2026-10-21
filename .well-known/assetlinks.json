@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.snufflesboop.furzone",
+      "sha256_cert_fingerprints": ["F8:96:E9:0D:EA:FA:E4:0D:98:FC:49:04:FB:FF:93:83:E7:B4:07:2B:4E:2C:31:65:0E:45:F8:8A:E8:7A:86:29"]
+    }
+  }
+]
